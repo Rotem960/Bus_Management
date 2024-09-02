@@ -1,2 +1,2 @@
-# Test_Management
-test management system in Java. The system enables the creation, management of test, featuring both American and open-ended question types. Designed with PostgreSQL database.
+# Bus_Management
+management system for a bus company. The system handles lines and transports management. Data storage solutions to support system operations with binary and text files.
